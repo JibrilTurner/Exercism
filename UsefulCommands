@@ -1,0 +1,7 @@
+python3 -m pytest -o markers=task hello_world_test.py
+python3 -m pytest -o markers=task lasagna_test.py
+python3 -m pytest -o markers=task exchange_test.py
+python3 -m pytest -o markers=task arcade_game_test.py
+python3 -m pytest -o markers=task conditionals_test.py
+python3 -m pytest -o markers=task bob_test.py
+python3 -m pytest -o markers=task diffie_hellman_test.py
